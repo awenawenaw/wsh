@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/clqr/clqr.iml" filepath="$PROJECT_DIR$/clqr/clqr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cprkd/cprkd.iml" filepath="$PROJECT_DIR$/cprkd/cprkd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbckd/dbckd.iml" filepath="$PROJECT_DIR$/dbckd/dbckd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbrkd/dbrkd.iml" filepath="$PROJECT_DIR$/dbrkd/dbrkd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbsq/dbsq.iml" filepath="$PROJECT_DIR$/dbsq/dbsq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dept/dept.iml" filepath="$PROJECT_DIR$/dept/dept.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gxbg/gxbg.iml" filepath="$PROJECT_DIR$/gxbg/gxbg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gxth/gxth.iml" filepath="$PROJECT_DIR$/gxth/gxth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gxzyd/gxzyd.iml" filepath="$PROJECT_DIR$/gxzyd/gxzyd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gztzd/gztzd.iml" filepath="$PROJECT_DIR$/gztzd/gztzd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hwtzd/hwtzd.iml" filepath="$PROJECT_DIR$/hwtzd/hwtzd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lsgyjcd/lsgyjcd.iml" filepath="$PROJECT_DIR$/lsgyjcd/lsgyjcd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qcysdgxwx/qcysdgxwx.iml" filepath="$PROJECT_DIR$/qcysdgxwx/qcysdgxwx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qtckqr/qtckqr.iml" filepath="$PROJECT_DIR$/qtckqr/qtckqr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qtcksq/qtcksq.iml" filepath="$PROJECT_DIR$/qtcksq/qtcksq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scll/scll.iml" filepath="$PROJECT_DIR$/scll/scll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wsh.iml" filepath="$PROJECT_DIR$/.idea/wsh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wxrk/wxrk.iml" filepath="$PROJECT_DIR$/wxrk/wxrk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xsckd/xsckd.iml" filepath="$PROJECT_DIR$/xsckd/xsckd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zkdwx/zkdwx.iml" filepath="$PROJECT_DIR$/zkdwx/zkdwx.iml" />
+    </modules>
+  </component>
+</project>
